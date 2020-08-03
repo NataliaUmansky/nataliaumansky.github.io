@@ -20,3 +20,18 @@ table {
   margin-bottom: 1rem;
   font-size: 0.98em;
 }
+
+
+html {
+  font-family: 'helvetica', serif;
+  line-height: 1.55;  
+  color: #000000;
+  font-size: 1.05em;
+}
+h1 {
+  font-size: 1.7em;
+  font-weight: 400;
+  font-family: 'helvetica';
+  line-height: 1.4;
+  color: rgb(80,80,80);
+}
