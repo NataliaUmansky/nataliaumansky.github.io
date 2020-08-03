@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Contents | Natalia Umansky Casapa</title>
+    <link>/content/</link>
+      <atom:link href="/content/index.xml" rel="self" type="application/rss+xml" />
+    <description>Contents</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Natalia Umansky Casapa</copyright><lastBuildDate>Wed, 29 Jul 2020 10:35:55 +0100</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Contents</title>
+      <link>/content/</link>
+    </image>
+    
+    <item>
+      <title>Working Papers</title>
+      <link>/content/research/working-papers/</link>
+      <pubDate>Wed, 29 Jul 2020 10:35:55 +0100</pubDate>
+      <guid>/content/research/working-papers/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
