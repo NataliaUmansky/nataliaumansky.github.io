@@ -53,41 +53,6 @@
   </url>
   
   <url>
-    <loc>/content/</loc>
-    <lastmod>2020-07-29T10:35:55+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/content/research/working-papers/</loc>
-    <lastmod>2020-07-29T10:35:55+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/a/</loc>
-    <lastmod>2020-07-28T18:37:32+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/</loc>
-    <lastmod>2020-07-28T18:37:32+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/research/</loc>
-    <lastmod>2020-07-28T18:37:32+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/category/research/</loc>
-    <lastmod>2020-07-28T18:37:32+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
-    <lastmod>2020-07-28T18:37:32+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/post/writing-technical-content/</loc>
     <lastmod>2019-07-12T00:00:00+00:00</lastmod>
   </url>
@@ -143,7 +108,17 @@
   </url>
   
   <url>
+    <loc>/categories/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/category/demo/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
   </url>
   
