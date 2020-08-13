@@ -217,44 +217,6 @@
 
 
 
-
-<script async src="https://www.googletagmanager.com/gtag/js?id=XX-123456789-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-
-  function gtag() {
-      dataLayer.push(arguments);
-  }
-
-  function trackOutboundLink(url, target) {
-    gtag('event', 'click', {
-         'event_category': 'outbound',
-         'event_label': url,
-         'transport_type': 'beacon',
-         'event_callback': function () {
-           if (target !== '_blank') {
-             document.location = url;
-           }
-         }
-    });
-    console.debug("Outbound link clicked: " + url);
-  }
-
-  function onClickCallback(event) {
-    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
-      return;
-    }
-    trackOutboundLink(event.target, event.target.getAttribute('target'));  
-  }
-
-  gtag('js', new Date());
-  gtag('config', 'XX-123456789-1', {});
-
-  
-  document.addEventListener('click', onClickCallback, false);
-</script>
-
-
   
 
 
@@ -1003,6 +965,14 @@
 <li>Autumn 2019: Foundations of Political Theory and International Relations</li>
 <li>Spring 2019: Foundations of Contemporary Politics</li>
 <li>Autumn 2018: Research Methods in Political Science</li>
+</ul>
+<br>
+<h2 id="workshop-instructor">Workshop Instructor</h2>
+<br>
+<ul>
+<li>2020 - 
+<a href="https://www.ucd.ie/connected_politics/" target="_blank" rel="noopener">The Connected_Politics Lab</a>: Creating and Hosting an Academic Personal Website Using Hugo and GitHub (with 
+<a href="https://muellerstefan.net" target="_blank" rel="noopener">Stefan Müller</a>, upcoming).</li>
 </ul>
 
 
